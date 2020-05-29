@@ -22,7 +22,8 @@ public class MaximumProductSubArray {
 	public static void main(String[] args) {
 		//int[] nums = {3,-1,4};
 		//int[] nums = {-2,3,-4,-10};
-		int[] nums = {2,-5,-2,-4,3};
+		//int[] nums = {2,-5,-2,-4,3};
+		int[] nums = {1,-2,3,4,-10};
 		System.out.println(maxProduct(nums));
 
 	}
